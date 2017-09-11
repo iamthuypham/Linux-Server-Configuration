@@ -2,11 +2,11 @@
 Linux Server Configuration is a backend web project from Udacity Full Stack Nanodegree
 
 ## Info
-1. IP Address: 34.227.197.106
+1. IP Address: 34.228.15.203
 2. SSH Port: `2200`
 3. Web URL: 
-- http://ec2-34-227-197-106.compute-1.amazonaws.com/catalogs/
-- http://34.227.197.106/catalogs/
+- http://ec2-34-228-15-203.compute-1.amazonaws.com/catalogs/
+- http://34.228.15.203/catalogs/
 
 ## Installed and Configured Software
 - Git Bash
@@ -22,11 +22,13 @@ Linux Server Configuration is a backend web project from Udacity Full Stack Nano
 1. Download or `git clone` this project
 2. Open Git Bash
 3. Navigate to directory of the `grader_key` file
-4. Log in by typing this command line
+4. Log in by typing this command line with `XX.XXX.XXX.XXX` is the IP Address
 ```
 ssh grader@XX.XXX.XXX.XXX -p 2200 -i grader_key
 ```
-5. Enter passphrase **grader**. As success:
+5. Enter passphrase: **grader**. 
+
+As success:
 ![Image of success ssh login](https://github.com/iamthuypham/Linux-Server-Configuration/blob/master/successssh.PNG)
 
 ## Explore
