@@ -26,7 +26,7 @@ Linux Server Configuration is a backend web project from Udacity Full Stack Nano
 ```
 ssh grader@XX.XXX.XXX.XXX -p 2200 -i grader_key
 ```
-5. Enter passphrase: **Noel@2016**. 
+5. Enter passphrase: **udacity**. 
 
 As success:
 ![Image of success ssh login](https://github.com/iamthuypham/Linux-Server-Configuration/blob/master/successssh.PNG)
